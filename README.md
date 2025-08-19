@@ -46,4 +46,13 @@ El análisis se desarrolló en Python utilizando técnicas de ciencia de datos:
 4. Usar el modelo predictivo para segmentar clientes con alto riesgo.
 
 ## 📁 Estructura del Proyecto
+├── AluraTelecomX2Latam.ipynb # Notebook principal con todo el análisis 
+├── df.csv # Dataset tratado 
+├── README.md # Documentación del proyecto
 
+
+## 🧠 Conclusión
+
+Este análisis proporciona una hoja de ruta clara para reducir el churn en Telecom X. Al enfocar esfuerzos en la estructura contractual, la experiencia de pago y la calidad del servicio, la empresa puede fortalecer la lealtad del cliente y mejorar su rentabilidad.
+
+---
